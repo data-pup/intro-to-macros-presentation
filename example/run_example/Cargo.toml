@@ -5,3 +5,4 @@ authors = ["data-pup <kevinmartinucr@gmail.com>"]
 
 [dependencies]
 awoo = { path = "../awoo", version = "0.1.0" }
+awoo_derive = { path = "../awoo_derive", version = "0.1.0" }
