@@ -1,4 +1,11 @@
 [[package]]
+name = "awoo"
+version = "0.1.0"
+
+[[package]]
 name = "run_example"
 version = "0.1.0"
+dependencies = [
+ "awoo 0.1.0",
+]
 
